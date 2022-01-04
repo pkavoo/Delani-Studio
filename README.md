@@ -18,4 +18,5 @@ No known bugs
 For enquirires reach out to me at pkavoo@gmail.com
 ### License
 MIT License
+
 Copyright (c) 2022 **Polycarp Kavoo**
