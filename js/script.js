@@ -73,4 +73,3 @@ $(function () {
 
 
 });
-© 2022 GitHub, Inc.
