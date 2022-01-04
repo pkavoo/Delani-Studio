@@ -7,7 +7,7 @@
 
 Link to live github page: https://pkavoo.github.io/Delani-Studio/
 ## Known Bugs
-No known bugs
+Mailchimp not working as expected due to disabling of api key.
 ## Technologies Used
 * HTML
 * CSS
